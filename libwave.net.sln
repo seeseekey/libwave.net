@@ -53,7 +53,7 @@ Global
 		{F3D65521-1192-45E0-8C63-8B39DDF775C5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = samples\WriteWaveFile\WriteWaveFile.csproj
+		StartupItem = libwave.net\libwave.net.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
